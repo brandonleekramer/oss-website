@@ -10,13 +10,13 @@ h1, h2, h3, h4, h5 {
 }
 ```
 
+### Open-Source Software Research Team
+
 <br>
 <center>
 ![](/./overview_files/oss_homepage.png)
 </center>
 <br>
-
-### Open-Source Software Research Team
 
 Current economic indicators and indicators developed by the [National Center for Science & Engineering Statistics (NCSES)](https://www.nsf.gov/statistics/) do not measure the value of goods and services that fall outside of market transactions. Although NCSES does track some types of software development, it is challenging to account for open-source software (OSS) outputs because these products are largely being advanced outside of traditional business contexts. Moreover, while current measures of innovation tend to rely on survey data, patent issues, trademarks approvals, intangible asset data, or estimates of total factor productivity growth, these measures are either incomplete or fail to capture innovation that is freely available to the public. Our team's mission is to analyze the scope and impact of open-source software by collecting large-scale data on this topic and developing software tools to analyze its growth over time. To date, our team has done work examining international collaborations, evaluating the estimated cost of open-source software on GitHub, and developing algorithms that help the NCSES classify GitHub users into different economic sectors. 
 
