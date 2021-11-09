@@ -1,0 +1,63 @@
+baseURL = "/"
+languageCode = "en-us"
+title = ""
+description = "Open-Source Software Research Team"
+theme = "min_night"
+disqusShortname = ""
+googleAnalytics = ""
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
+
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
+
+[params]
+    author = "Brandon Kramer"
+    description = "Open-Source Software Research Team Based at the University of Virginia, the National Center for Science and Engineering Statistics, and the Bureau of Economic Analysis"
+    logo = "favicon/oss_homepage.png"
+    githubUsername = "uva-bi-sdad"
+    accent = "#000000" # dark colors do best
+    backgroundColor = "#FFFFFF"
+    font = "Nunito Sans" # should match the name on Google Fonts!
+    highlight = true
+    highlightStyle = "#4682B4" # make this match accent
+    highlightLanguages = ["r", "bash", "go"]
+
+# adjust these as you see fit
+[[menu.main]]
+    url = "/"
+    name = "Home"
+    weight = 1
+
+[[menu.main]]
+    url = "/overview/"
+    name = "Overview & Team"
+    weight = 2
+
+[[menu.main]]
+    url = "/projects/"
+    name = "Projects"
+    weight = 3
+    
+[[menu.main]]
+    url = "/presentations/"
+    name = "Presentations"
+    weight = 4
+    
+[[menu.main]]
+    url = "/packages/"
+    name = "Packages"
+    weight = 5
+
+# Social icons to be shown on the right-hand side of the navigation bar
+# The "name" field should match the name of the icon to be used
+# The list of available icons can be found at http://fontawesome.io/icons/
+
+[[menu.icon]]
+    url = "mailto:brandonleekramer@gmail.com"
+    name = "far fa-envelope"
+    weight = 1
+
+[[menu.icon]]
+    url = "https://github.com/uva-bi-sdad"
+    name = "fab fa-github"
+    weight = 2

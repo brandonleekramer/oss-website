@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Overview</title>
+      <link>/overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/overview/</guid>
+      <description>/* this chunnk of code centers all of the headings */ h1, h2, h3, h4, h5 { text-align: center; }  Open-Source Software Team Page   
+Current economic indicators and indicators developed by the National Center for Science &amp;amp; Engineering Statistics (NCSES) do not measure the value of goods and services that fall outside of market transactions. Although NCSES does track some types of software development, it is challenging to account for open-source software (OSS) outputs because these products are largely being advanced outside of traditional business contexts.</description>
+    </item>
+    
+    <item>
+      <title>Overview</title>
+      <link>/papers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/papers/</guid>
+      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+When you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:</description>
+    </item>
+    
+    <item>
+      <title>Packages</title>
+      <link>/packages/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/packages/</guid>
+      <description> /* this chunnk of code centers all of the headings */ h1, h2, h3, h4, h5 { text-align: center; }    GHOST.jl GHOST.jl, short for GitHub Open-Source Tracker, is a Julia package for targeted scraping of GitHub user and activity data     tidyorgs tidyorgs is an R package that detects and standardizes organizations in unstructured text data     diverstidy diverstidy is an R package designed for detection and standardization of geographic, population, and diversity-related terminology in unstructured text data   </description>
+    </item>
+    
+    <item>
+      <title>Presentations</title>
+      <link>/presentations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/presentations/</guid>
+      <description>/* this chunnk of code centers all of the headings */ h1, h2, h3, h4, h5 { text-align: center; }   
+ A recent presentation of our research on international collabortions on GitHub at Networks 2021 
+ 2021 Robbins, C., Korkmaz, G., Guci, L., Santiago Calderón, J.B., &amp;amp; Kramer, B.L. “A First Look at Open Source Software Investment in the United States and in the Other Countries, 2009-2019.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/</guid>
+      <description>/* this chunnk of code centers all of the headings */ h1, h2, h3, h4, h5 { text-align: center; }  Current Projects Robbins, C., Korkmaz, G., Calderon, J.B.S., and Kramer, B.L. “Measuring the Cost of Open Source Software Innovation on GitHub.” Draft Available. [GitHub Repo.]
+Open Source Software (OSS), defined by Open Source Initiative, is computer software with its source code shared with a license in which the copyright holder provides the rights to study, change, and distribute the software to anyone and for any purpose.</description>
+    </item>
+    
+  </channel>
+</rss>

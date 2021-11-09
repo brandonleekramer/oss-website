@@ -1,0 +1,60 @@
+---
+title: "Overview"
+output: html_document
+---
+
+```{css, echo=FALSE}
+/* this chunnk of code centers all of the headings */
+h1, h2, h3, h4, h5 {
+  text-align: center;
+}
+```
+
+### Open-Source Software Team Page
+
+<br>
+<center>
+![](/./overview_files/oss_homepage.png)
+</center>
+<br>
+
+Current economic indicators and indicators developed by the [National Center for Science & Engineering Statistics (NCSES)](https://www.nsf.gov/statistics/) do not measure the value of goods and services that fall outside of market transactions. Although NCSES does track some types of software development, it is challenging to account for open-source software (OSS) outputs because these products are largely being advanced outside of traditional business contexts. Moreover, while current measures of innovation tend to rely on survey data, patent issues, trademarks approvals, intangible asset data, or estimates of total factor productivity growth, these measures are either incomplete or fail to capture innovation that is freely available to the public. Our team's mission is to analyze the scope and impact of open-source software by collecting large-scale data on this topic and developing software tools to analyze its growth over time. To date, our team has done work examining international collaborations, evaluating the estimated cost of open-source software on GitHub, and developing algorithms that help the NCSES classify GitHub users into different economic sectors. 
+
+<br>
+
+### National Center for Science and Engineering Statistics <br> and Bureau of Economic Analysis Team Members 
+
+<center>
+![](/./overview_files/carol.png) ![](/./overview_files/ledia.png) ![](/./overview_files/bayoan.jpg){width=20%}
+</center>
+
+##### [Carol Robbins](https://www.nsf.gov/staff/staff_bio.jsp?lan=crobbins&from_org=) (NCSES, Senior Analyst), [Ledia Guci](https://www.nsf.gov/staff/staff_bio.jsp?lan=lguci&from_org=) (NCSES, Science Resource Analyst), <br>and [José Bayoán Santiago Calderón](https://biocomplexity.virginia.edu/j-bayoan-santiago-calderon) (Bureau of Economic Analysis) {style=text-align:center}
+
+<br>
+
+### University of Virginia Team Members 
+
+<center>
+![](/./overview_files/gizem.jpg){width=20%} ![](/./overview_files/brandon.jpg){width=20%} ![](/./overview_files/aaron.jpg){width=20%} ![](/./overview_files/sallie.jpg){width=20%}
+</center>
+
+##### [Gizem Korkmaz](https://biocomplexity.virginia.edu/gizem-korkmaz) (Research Associate Professor) and [Brandon Kramer](https://www.brandonleekramer.com/about/) (Postdoctoral Research Associate), [Aaron Schroeder](https://biocomplexity.virginia.edu/aaron-schroeder) (Research Associate Professor), and [Sallie Keller](https://biocomplexity.virginia.edu/sallie-keller) (Division Director and Distinguished Professor) {style=text-align:center}
+
+<br>
+
+### Data Science for the Public Good Team Members 
+
+#### DSPG Summer Class of 2021 {style=text-align:center}
+
+![](/./overview_files/Crystal.jpeg){width=20%} ![](/./overview_files/Cierra.png){width=25%} ![](/./overview_files/Stephanie.png){width=25%}
+
+##### [Crystal Zang](https://github.com/czang97) (Team Lead, University of Pittsburgh, Biostatistics), Cierra Oliveira <br> (Clemson University, Computing and Applied Sciences), and Stephanie Zhang <br>(University of Virginia, Mathematics/Probability/Statistics, Sociology)
+
+Team created 
+
+#### DSPG Summer Class of 2020 {style=text-align:center}
+
+![](/./overview_files/daniel.jpg) ![](/./overview_files/morgan.jpg) ![](/./overview_files/crystal.jpeg)
+
+##### [Daniel Bullock](https://github.com/DanNBullock) (Team Lead, Indiana University, Computational Neuroanatomy), [Morgan Klutzke](https://github.com/mklutzke) (Indiana University, Psychology and Cognitive Science), and [Crystal Zang](https://github.com/czang97) (University of Pittsburgh, Biostatistics) {style=text-align:center}
+###
