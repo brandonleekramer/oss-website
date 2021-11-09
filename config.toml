@@ -2,7 +2,6 @@ baseURL = "/"
 languageCode = "en-us"
 title = ""
 description = "Open-Source Software Research Team"
-theme = "min_night"
 disqusShortname = ""
 googleAnalytics = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
