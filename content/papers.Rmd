@@ -62,6 +62,8 @@ Current economic indicators and indicators developed by the National Center for 
 
 **Cong, C., Isch, C., Tobin, E., Korkmaz, G., Santiago Calderón, J.B., Schroeder, A. and Kramer, B. L. (2020) “Open Source: The Future of Software Innovation.” *MethodSpace.* SAGE Publishing. [[Link to Paper]](https://www.methodspace.com/blog/open-source-the-future-of-software-innovation)**
 
+Open Source software is a key part of our economy, yet currently not measured because it is ‘free’ and therefore not captured in the nation’s Gross Domestic Product. The National Center for Science and Engineering Statistics would like to better understand the contribution and value of OSS to provide policy makers with a more comprehensive picture of science and engineering indicators. In this project, various data sources including online repositories such as GitHub, and databases of copyrights, trademarks, and patents are examined to assess if these data sources provide useful information about quantity and value of OSS.
+
 <br>
 
 ### 2018
