@@ -13,7 +13,7 @@ h1, h2, h3, h4, h5 {
 ### National Center for Science and Engineering Statistics <br> and Bureau of Economic Analysis Team Members 
 
 <center>
-![](/./overview_files/carol.png) ![](/./overview_files/ledia.png) ![](/./overview_files/bayoan.jpg){width=20%}
+![](/./overview_files/carol.png) ![](/./overview_files/ledia.png) ![](/./overview_files/bayoan.jpg){width=25%}
 </center>
 
 ##### [Carol Robbins](https://www.nsf.gov/staff/staff_bio.jsp?lan=crobbins&from_org=) (NCSES, Senior Analyst), <br>[Ledia Guci](https://www.nsf.gov/staff/staff_bio.jsp?lan=lguci&from_org=) (NCSES, Science Resource Analyst), and <br>[José Bayoán Santiago Calderón](https://biocomplexity.virginia.edu/j-bayoan-santiago-calderon) (Bureau of Economic Analysis) {style=text-align:center}
@@ -23,7 +23,7 @@ h1, h2, h3, h4, h5 {
 ### University of Virginia Core Team Members 
 
 <center>
-![](/./overview_files/gizem.jpg){width=20%} ![](/./overview_files/brandon.jpg){width=20%}
+![](/./overview_files/gizem.jpg){width=25%} ![](/./overview_files/brandon.jpg){width=25%}
 </center>
 
 ##### [Gizem Korkmaz](https://biocomplexity.virginia.edu/gizem-korkmaz) (Research Associate Professor) and <br>[Brandon Kramer](https://www.brandonleekramer.com/about/) (Postdoctoral Research Associate)
