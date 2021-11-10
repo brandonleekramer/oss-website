@@ -23,32 +23,15 @@ h1, h2, h3, h4, h5 {
 ### University of Virginia Core Team Members 
 
 <center>
-![](/./overview_files/gizem.jpg){width=20%} ![](/./overview_files/brandon.jpg){width=20%} ![](/./overview_files/aaron.jpg){width=20%}
+![](/./overview_files/gizem.jpg){width=20%} ![](/./overview_files/brandon.jpg){width=20%}
 </center>
 
-##### [Gizem Korkmaz](https://biocomplexity.virginia.edu/gizem-korkmaz) (Research Associate Professor), <br>[Brandon Kramer](https://www.brandonleekramer.com/about/) (Postdoctoral Research Associate), <br>and [Aaron Schroeder](https://biocomplexity.virginia.edu/aaron-schroeder) (Research Associate Professor) {style=text-align:center}
-
-<br>
-
-### Data Science for the Public Good Team Members 
-
-#### DSPG Summer Class of 2021 {style=text-align:center}
-
-![](/./overview_files/Crystal.jpeg){width=20%} ![](/./overview_files/Cierra.png){width=25%} ![](/./overview_files/Stephanie.png){width=25%}
-
-##### [Crystal Zang](https://github.com/czang97) (Team Lead, University of Pittsburgh, Biostatistics), <br>Cierra Oliveira (Clemson University, Computing and Applied Sciences), and <br>Stephanie Zhang (University of Virginia, Mathematics/Probability/Statistics, Sociology)
-
-#### DSPG Summer Class of 2020 {style=text-align:center}
-
-![](/./overview_files/daniel.jpg) ![](/./overview_files/morgan.jpg) ![](/./overview_files/crystal.jpeg)
-
-##### [Daniel Bullock](https://github.com/DanNBullock) (Team Lead, Indiana University, Computational Neuroanatomy), <br>[Morgan Klutzke](https://github.com/mklutzke) (Indiana University, Psychology and Cognitive Science), and <br>[Crystal Zang](https://github.com/czang97) (University of Pittsburgh, Biostatistics) {style=text-align:center}
-###
+##### [Gizem Korkmaz](https://biocomplexity.virginia.edu/gizem-korkmaz) (Research Associate Professor) and <br>[Brandon Kramer](https://www.brandonleekramer.com/about/) (Postdoctoral Research Associate)
 
 <br>
 
 ### Other Team Members (Past and Present)
 
-##### Sallie Keller, Stephanie Shipp, Behnaz Moradi-Jamei, Claire Kelling, and Daniel Chen
+##### Sallie Keller, Aaron Schroeder, Stephanie Shipp, <br>Behnaz Moradi-Jamei, Claire Kelling, and Daniel Chen
 
 <br>
