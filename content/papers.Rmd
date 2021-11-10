@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "Papers"
 output: html_document
 ---
 
@@ -10,7 +10,7 @@ h1, h2, h3, h4, h5 {
 }
 ```
 
-### Current Projects 
+### Current Papers
 
 **Robbins, C., Korkmaz, G., Calderon, J.B.S., and Kramer, B.L. “Measuring the Cost of Open Source Software Innovation on GitHub.” *Draft Available.* [[GitHub Repo.](https://github.com/uva-bi-sdad/oss-2020/tree/master/src/github-cost-estimation)]**
 
@@ -60,7 +60,7 @@ Current economic indicators and indicators developed by the National Center for 
 
 <br>
 
-Cong, C., Isch, C., Tobin, E., Korkmaz, G., Santiago Calderón, J.B., Schroeder, A. and Kramer, B. L. (2020) “Open Source: The Future of Software Innovation.” MethodSpace. SAGE Publishing. 
+**Cong, C., Isch, C., Tobin, E., Korkmaz, G., Santiago Calderón, J.B., Schroeder, A. and Kramer, B. L. (2020) “Open Source: The Future of Software Innovation.” *MethodSpace.* SAGE Publishing. [[Link to Paper]](https://www.methodspace.com/blog/open-source-the-future-of-software-innovation)**
 
 <br>
 
