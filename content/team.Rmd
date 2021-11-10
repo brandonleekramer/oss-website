@@ -20,7 +20,7 @@ h1, h2, h3, h4, h5 {
 
 <br>
 
-### University of Virginia Team Members 
+### University of Virginia Core Team Members 
 
 <center>
 ![](/./overview_files/gizem.jpg){width=20%} ![](/./overview_files/brandon.jpg){width=20%} ![](/./overview_files/aaron.jpg){width=20%}
@@ -44,3 +44,7 @@ h1, h2, h3, h4, h5 {
 
 ##### [Daniel Bullock](https://github.com/DanNBullock) (Team Lead, Indiana University, Computational Neuroanatomy), <br>[Morgan Klutzke](https://github.com/mklutzke) (Indiana University, Psychology and Cognitive Science), and <br>[Crystal Zang](https://github.com/czang97) (University of Pittsburgh, Biostatistics) {style=text-align:center}
 ###
+
+### Other Team Members (Past and Present)
+
+##### Sallie Keller, Stephanie Shipp, Behnaz Moradi-Jamei, Claire Kelling, and Daniel Chen

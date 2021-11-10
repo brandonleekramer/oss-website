@@ -43,14 +43,19 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
     weight = 4
     
 [[menu.main]]
+    url = "/dspg/"
+    name = "DSPG"
+    weight = 5    
+    
+[[menu.main]]
     url = "/packages/"
     name = "Packages"
-    weight = 5
+    weight = 6
     
 [[menu.main]]
     url = "/team/"
     name = "Team"
-    weight = 5
+    weight = 7
 
 # Social icons to be shown on the right-hand side of the navigation bar
 # The "name" field should match the name of the icon to be used

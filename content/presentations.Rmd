@@ -21,33 +21,45 @@ h1, h2, h3, h4, h5 {
   
 <br>
 
+### Conference Presentations and Invited Talks
+
 ### 2021
 
-Robbins, C., Korkmaz, G., Guci, L., Santiago Calderón, J.B., & Kramer, B.L. “A First Look at Open Source Software Investment in the United States and in the Other Countries, 2009-2019.” International Association for Research in Income and Wealth, November 2021.
+Robbins, C., Korkmaz, G., Guci, L., Santiago Calderón, J.B., & Kramer, B.L. “A First Look at Open Source Software Investment in the United States and in the Other Countries, 2009-2019.” *International Association for Research in Income and Wealth*, November 2021.
 
-Kramer, B.L., Korkmaz, G., Santiago Calderón, J.B., & Robbins, C. “Using Web Scraping and Network Analysis to Study International Collaboration in Open Source Software.” Federal Committee on Statistical Methodology, Web Scraping Session, November 2021.
+Kramer, B.L., Korkmaz, G., Santiago Calderón, J.B., & Robbins, C. “Using Web Scraping and Network Analysis to Study International Collaboration in Open Source Software.” *Federal Committee on Statistical Methodology Web Scraping Session*, November 2021. 
 
-Kramer, B.L., Korkmaz, G., Santiago Calderón, J.B., & Robbins, C. “A Longitudinal Analysis of International Collaboration on GitHub.” Networks 2021, July 2021.
+Kramer, B.L., Korkmaz, G., Santiago Calderón, J.B., & Robbins, C. “A Longitudinal Analysis of International Collaboration on GitHub.” *Networks 2021*, July 2021.
 
-Robbins, C., Korkmaz, G., Guci, L., Santiago Calderón, J.B., & Kramer, B.L. “Measuring Open Source Software as an Intangible, Digital Asset using GitHub.” Sixth World KLEMS Conference, March 2021.
+Korkmaz, G., Robbins, C., Santiago Calderón, J.B., Kramer, B.L., Schroder, A., & Keller, S. “Measuring the Cost and Impact of Open Source Software Innovation on GitHub.” Invited Presentation at the National Center for Science and Engineering Statistics, Online Due to COVID-19, April 2020. *Invited Presentation at the Darden Business School*, University of Virginia, Online Due to COVID-19, June 2020. 
 
-Moradi-Jamei, B. Kramer, B.L., Santiago Calderón, J.B., & Korkmaz, G. “Community Detection in Open Source Software Collaboration Networks.” 2021 Symposium on Data Science & Statistics conference, Scheduled for June 4, 2021.
+Robbins, C., Korkmaz, G., Guci, L., Santiago Calderón, J.B., & Kramer, B.L. “Measuring Open Source Software as an Intangible, Digital Asset using GitHub.” *Sixth World KLEMS Conference*, March 2021.
 
-Kramer, B.L., Korkmaz, G., Santiago Calderón, J.B., & Robbins, C. “A Longitudinal Analysis of International Collaboration on GitHub.” North American Regional Social Networks conference, Online Due to COVID-19, January 2021.
+Moradi-Jamei, B. Kramer, B.L., Santiago Calderón, J.B., & Korkmaz, G. “Community Detection in Open Source Software Collaboration Networks.” *2021 Symposium on Data Science & Statistics Conference*, June 2021.
 
-Moradi-Jamei, B. Kramer, B.L., Santiago Calderón, J.B., & Korkmaz, G. “Community Detection and Analysis of GitHub Collaboration Networks.” North American Regional Social Networks conference, Online Due to COVID-19, January 2021.
+Kramer, B.L., Korkmaz, G., Santiago Calderón, J.B., & Robbins, C. “A Longitudinal Analysis of International Collaboration on GitHub.” *North American Regional Social Networks Conference*, Online Due to COVID-19, January 2021.
+
+Moradi-Jamei, B. Kramer, B.L., Santiago Calderón, J.B., & Korkmaz, G. “Community Detection and Analysis of GitHub Collaboration Networks.” *North American Regional Social Networks Conference*, Online Due to COVID-19, January 2021.
 
 ### 2020
 
-Korkmaz, G., Robbins, C., Santiago Calderón, J.B., Kramer, B.L., Schroder, A., & Keller, S. “Measuring the Cost and Impact of Open Source Software Innovation on GitHub.” Invited Presentation at the Harvard Business School, Harvard University, Online Due to COVID-19, November 2020. 
+Korkmaz, G., Robbins, C., Santiago Calderón, J.B., Kramer, B.L., Schroder, A., & Keller, S. “Measuring the Cost and Impact of Open Source Software Innovation on GitHub.” *Invited Presentation at the Harvard Business School*, Harvard University, Online Due to COVID-19, November 2020. 
 
-Santiago Calderón, J.B., Kramer, B.L., Korkmaz, G., Robbins, C., Schroder, A., & Keller, S. “Measuring the Cost and Impact of Open Source Software as Intangible Capital: International Collaboration Networks.” Federal Committee of Statistical Methodology Interest Group on Computational Statistics and Official Statistics, Online Due to COVID-19, May 2020. 
+Santiago Calderón, J.B., Kramer, B.L., Korkmaz, G., Robbins, C., Schroder, A., & Keller, S. “Measuring the Cost and Impact of Open Source Software as Intangible Capital: International Collaboration Networks.” *Federal Committee of Statistical Methodology Interest Group on Computational Statistics and Official Statistics*, Online Due to COVID-19, May 2020. [[Link to Conference Presentation]](https://nces.ed.gov/fcsm/pdf/Calderon_Blended_Data_OSS.pdf)
 
-Santiago Calderón, J.B., Kramer, B.L., Korkmaz, G., Robbins, C., Schroder, A., & Keller, S. “Measuring the Cost and Impact of Open Source Software as Intangible Capital: International Collaboration Networks.” Invited Presentation at Westat, Rockville, MD, January 2020. 
+Santiago Calderón, J.B., Kramer, B.L., Korkmaz, G., Robbins, C., Schroder, A., & Keller, S. “Measuring the Cost and Impact of Open Source Software as Intangible Capital: International Collaboration Networks.” *Invited Presentation at Westat*, Rockville, MD, January 2020. 
+
+### 2019 
+
+Robbins, C., Korkmaz, G., Santiago Calderón, J.B., Chen, D., Schroeder, A., Kelling, C., Shipp, S. & Keller, S. “The Scope and Impact of Open Source Software: A Framework for Analysis and Preliminary Cost Estimates.” *National Bureau of Economic Research Conference on Research in Income and Wealth Conference: Big Data for 21st Century Economic Statistics*, Bethesda, MD, March, 2019. [[Link to Conference Paper]](https://conference.nber.org/conf_papers/f111802.pdf).
+
+Korkmaz, G., C. Kelling, C. Robbins, & S. Keller. (2018). “Modeling the Impact of R Packages Using Dependency and Contributor Networks.” *Invited Presentation at Women in Data Science Conference*, Charlottesville, VA. March 2019.
 
 ### 2018 
 
-Robbins, C., Korkmaz, G., Santiago Calderón, J.B., Kelling, C., Shipp, S. & Keller, S. “The Scope and Impact of Open Source Software: A Framework for Analysis and Preliminary Cost Estimates.” International Association for Research in Income and Wealth, August 2018.
+Robbins, C. A., Korkmaz, G., Calderón, J.B.S., Chen, D., Kelling, C., Shipp, S., & Keller, S. (2018). "Open Source Software as Intangible Capital: Measuring the Cost and Impact of Free Digital Tools." *Paper from 6th IMF Statistical Forum on Measuring Economic Welfare in the Digital Age: What and How*, November 2018. [[Link to Conference Paper]](https://www.imf.org/~/media/Files/Conferences/2018/6th-stats-forum/session-3carol-robbinsopen-source-software-as-intangible-capitalmeasuring-the-cost-and-impact-of-fre.ashx)
+
+Robbins, C., Korkmaz, G., Santiago Calderón, J.B., Kelling, C., Shipp, S. & Keller, S. “The Scope and Impact of Open Source Software: A Framework for Analysis and Preliminary Cost Estimates.” *International Association for Research in Income and Wealth*, August 2018. [[Link to Conference Paper]](http://old.iariw.org/copenhagen/robbins.pdf)
 
 <br>
 

@@ -11,6 +11,16 @@
     
     
     <item>
+      <title>DSPG</title>
+      <link>/dspg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/dspg/</guid>
+      <description>/* this chunnk of code centers all of the headings */ h1, h2, h3, h4, h5 { text-align: center; }    
+Each year the University of Virginia’s Biocomplexity Institute holds a summer program for training graduate and undergraduate students how to do applied data science. The Data Science for the Public Good (DSPG) Young Scholars program is a summer immersive program for undergraduate and graduate students from across the country.</description>
+    </item>
+    
+    <item>
       <title>Overview</title>
       <link>/overview/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -47,7 +57,7 @@ Open Source Software (OSS), defined by Open Source Initiative, is computer softw
       <guid>/presentations/</guid>
       <description>/* this chunnk of code centers all of the headings */ h1, h2, h3, h4, h5 { text-align: center; }   
  A recent presentation of our research on international collabortions on GitHub at Networks 2021 
- 2021 Robbins, C., Korkmaz, G., Guci, L., Santiago Calderón, J.B., &amp;amp; Kramer, B.L. “A First Look at Open Source Software Investment in the United States and in the Other Countries, 2009-2019.</description>
+ Conference Presentations and Invited Talks  2021 Robbins, C., Korkmaz, G., Guci, L., Santiago Calderón, J.B., &amp;amp; Kramer, B.L. “A First Look at Open Source Software Investment in the United States and in the Other Countries, 2009-2019.</description>
     </item>
     
     <item>
@@ -57,7 +67,7 @@ Open Source Software (OSS), defined by Open Source Initiative, is computer softw
       
       <guid>/team/</guid>
       <description>/* this chunnk of code centers all of the headings */ h1, h2, h3, h4, h5 { text-align: center; }  National Center for Science and Engineering Statistics and Bureau of Economic Analysis Team Members   Carol Robbins (NCSES, Senior Analyst), Ledia Guci (NCSES, Science Resource Analyst), and José Bayoán Santiago Calderón (Bureau of Economic Analysis) 
-  University of Virginia Team Members   Gizem Korkmaz (Research Associate Professor), Brandon Kramer (Postdoctoral Research Associate), and Aaron Schroeder (Research Associate Professor)</description>
+  University of Virginia Core Team Members   Gizem Korkmaz (Research Associate Professor), Brandon Kramer (Postdoctoral Research Associate), and Aaron Schroeder (Research Associate Professor)</description>
     </item>
     
   </channel>
