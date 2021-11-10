@@ -22,39 +22,4 @@ Current economic indicators and indicators developed by the [National Center for
 
 <br>
 
-### National Center for Science and Engineering Statistics <br> and Bureau of Economic Analysis Team Members 
 
-<center>
-![](/./overview_files/carol.png) ![](/./overview_files/ledia.png) ![](/./overview_files/bayoan.jpg){width=20%}
-</center>
-
-##### [Carol Robbins](https://www.nsf.gov/staff/staff_bio.jsp?lan=crobbins&from_org=) (NCSES, Senior Analyst), [Ledia Guci](https://www.nsf.gov/staff/staff_bio.jsp?lan=lguci&from_org=) (NCSES, Science Resource Analyst), <br>and [José Bayoán Santiago Calderón](https://biocomplexity.virginia.edu/j-bayoan-santiago-calderon) (Bureau of Economic Analysis) {style=text-align:center}
-
-<br>
-
-### University of Virginia Team Members 
-
-<center>
-![](/./overview_files/gizem.jpg){width=20%} ![](/./overview_files/brandon.jpg){width=20%} ![](/./overview_files/aaron.jpg){width=20%} ![](/./overview_files/sallie.jpg){width=20%}
-</center>
-
-##### [Gizem Korkmaz](https://biocomplexity.virginia.edu/gizem-korkmaz) (Research Associate Professor) and [Brandon Kramer](https://www.brandonleekramer.com/about/) (Postdoctoral Research Associate), [Aaron Schroeder](https://biocomplexity.virginia.edu/aaron-schroeder) (Research Associate Professor), and [Sallie Keller](https://biocomplexity.virginia.edu/sallie-keller) (Division Director and Distinguished Professor) {style=text-align:center}
-
-<br>
-
-### Data Science for the Public Good Team Members 
-
-#### DSPG Summer Class of 2021 {style=text-align:center}
-
-![](/./overview_files/Crystal.jpeg){width=20%} ![](/./overview_files/Cierra.png){width=25%} ![](/./overview_files/Stephanie.png){width=25%}
-
-##### [Crystal Zang](https://github.com/czang97) (Team Lead, University of Pittsburgh, Biostatistics), Cierra Oliveira <br> (Clemson University, Computing and Applied Sciences), and Stephanie Zhang <br>(University of Virginia, Mathematics/Probability/Statistics, Sociology)
-
-Team created 
-
-#### DSPG Summer Class of 2020 {style=text-align:center}
-
-![](/./overview_files/daniel.jpg) ![](/./overview_files/morgan.jpg) ![](/./overview_files/crystal.jpeg)
-
-##### [Daniel Bullock](https://github.com/DanNBullock) (Team Lead, Indiana University, Computational Neuroanatomy), [Morgan Klutzke](https://github.com/mklutzke) (Indiana University, Psychology and Cognitive Science), and [Crystal Zang](https://github.com/czang97) (University of Pittsburgh, Biostatistics) {style=text-align:center}
-###

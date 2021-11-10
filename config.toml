@@ -11,7 +11,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
 
 [params]
     author = "Brandon Kramer"
-    description = "Open-Source Software Research Team Based at the University of Virginia, the National Center for Science and Engineering Statistics, and the Bureau of Economic Analysis"
+    description = "Open-Source Software Research Team"
     logo = "favicon/oss_homepage.png"
     githubUsername = "uva-bi-sdad"
     accent = "#000000" # dark colors do best
@@ -29,7 +29,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
 
 [[menu.main]]
     url = "/overview/"
-    name = "Overview & Team"
+    name = "Overview"
     weight = 2
 
 [[menu.main]]
@@ -45,6 +45,11 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
 [[menu.main]]
     url = "/packages/"
     name = "Packages"
+    weight = 5
+    
+[[menu.main]]
+    url = "/team/"
+    name = "Team"
     weight = 5
 
 # Social icons to be shown on the right-hand side of the navigation bar

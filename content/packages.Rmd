@@ -11,7 +11,7 @@ h1, h2, h3, h4, h5 {
 ```
 
 <center>
-![](/./packages_files/ghost_tmp.png)
+![](/./packages_files/ghost_hex.png)
 </center>
 
 ## [GHOST.jl](https://github.com/uva-bi-sdad/GHOST.jl)
