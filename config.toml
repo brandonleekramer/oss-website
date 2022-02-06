@@ -43,14 +43,14 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
     weight = 4
     
 [[menu.main]]
-    url = "/dspg/"
-    name = "DSPG"
-    weight = 5    
-    
-[[menu.main]]
     url = "/packages/"
     name = "Packages"
-    weight = 6
+    weight = 5
+    
+[[menu.main]]
+    url = "/dspg/"
+    name = "DSPG"
+    weight = 6 
     
 [[menu.main]]
     url = "/team/"
