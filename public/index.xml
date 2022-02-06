@@ -7,6 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Data</title>
+      <link>/data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/data/</guid>
+      <description>/* this chunnk of code centers all of the headings */ h1, h2, h3, h4, h5 { text-align: center; }  Open Datasets (Available on ICPSR) Kramer, B.L., Korkmaz, G., Santiago Calderón, J.B., Guci, L. &amp;amp; Robbins, C. Open Source Software: GitHub User and Activity Data (2008-2019). Inter-university Consortium for Political and Social Research.
+Kramer, B.L., Korkmaz, G., Santiago Calderón, J.B., Guci, L. &amp;amp; Robbins, C. International Collaboration in Open Source Software: A Longitudinal Network Analysis of GitHub.</description>
+    </item>
+    
+    <item>
       <title>DSPG</title>
       <link>/dspg/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

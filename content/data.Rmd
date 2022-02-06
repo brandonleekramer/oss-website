@@ -1,0 +1,28 @@
+---
+title: "Data"
+output: html_document
+---
+
+```{css, echo=FALSE}
+/* this chunnk of code centers all of the headings */
+h1, h2, h3, h4, h5 {
+  text-align: center;
+}
+```
+
+### Open Datasets (Available on ICPSR)
+
+Kramer, B.L., Korkmaz, G., Santiago Calderón, J.B., Guci, L. & Robbins, C. [Open Source Software: GitHub User and Activity Data (2008-2019). *Inter-university Consortium for Political and Social Research.*](https://www.openicpsr.org/openicpsr/project/158826/version/V1/view)
+
+Kramer, B.L., Korkmaz, G., Santiago Calderón, J.B., Guci, L. & Robbins, C. [International Collaboration in Open Source Software: A Longitudinal Network Analysis of GitHub. *Inter-university Consortium for Political and Social Research.*](https://www.openicpsr.org/openicpsr/project/158761/version/V1/view)
+
+Santiago Calderón, J.B., Kramer, B.L., Korkmaz, G., Guci, L. & Robbins, C. [Measuring the Cost of Open-Source Software Innovation on GitHub. *Inter-university Consortium for Political and Social Research.*](https://www.openicpsr.org/openicpsr/project/158823/version/V1/view)
+
+Kramer, B.L., Moradi-Jamei, B., Korkmaz, G., Santiago Calderón, J.B., Guci, L. & Robbins, C. [Community Formation and Detection on GitHub Collaboration Networks. *Inter-university Consortium for Political and Social Research.*](https://www.openicpsr.org/openicpsr/project/158825/version/V1/view)
+
+Kramer, B.L., Korkmaz, G., Santiago Calderón, J.B., Guci, L. & Robbins, C. [U.S.-International Collaborations in Open-Source Software: 2018. *Inter-university Consortium for Political and Social Research.*](https://www.openicpsr.org/openicpsr/project/158825/version/V1/view)
+
+Kramer, B.L., Korkmaz, G., Santiago Calderón, J.B., Guci, L. & Robbins, C. [Network Analysis of Open-Source Software Python Packages on GitHub. *Inter-university Consortium for Political and Social Research.*](https://www.openicpsr.org/openicpsr/workspace?goToPath=/openicpsr/158827&goToLevel=project)
+
+<br>
+
