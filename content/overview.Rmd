@@ -10,13 +10,13 @@ h1, h2, h3, h4, h5 {
 }
 ```
 
+### Open-Source Software Research Team
+
 <br>
 <center>
-![](/./overview_files/oss_homepage.png)
+![](/./overview_files/oss_homepage_copy.png){width=55% height=55%}
 </center>
 <br>
-
-### Open-Source Software Research Team
 
 Open Source Software (OSS), defined by [Open Source Initiative](https://opensource.org/licenses), is computer software with its source code shared with a license in which the copyright holder provides the rights to study, change, and distribute the software to anyone and for any purpose. Prominent examples include the Linux operation system, the Apache web server, and machine learning frameworks like PyTorch and Tensorflow. OSS is developed, maintained, and extended both within and outside of the private sector, through the contribution of independent developers as well as people from universities, government research institutions, businesses, and nonprofits. Despite its ubiquity and extensive use, reliable measures of the scope and impact of OSS developed outside of the business sector are scarce. 
 

@@ -25,6 +25,8 @@ h1, h2, h3, h4, h5 {
 
 ### 2021
 
+Santiago Calderón, J.B., Robbins, C., Korkmaz, G., Guci, L., & Kramer, B.L. “Measuring the Cost of Open Source Software Innovation on GitHub.” *American Economic Association*, January 2022.
+
 Robbins, C., Korkmaz, G., Guci, L., Santiago Calderón, J.B., & Kramer, B.L. “A First Look at Open Source Software Investment in the United States and in the Other Countries, 2009-2019.” *International Association for Research in Income and Wealth*, November 2021.
 
 Kramer, B.L., Korkmaz, G., Santiago Calderón, J.B., & Robbins, C. “Using Web Scraping and Network Analysis to Study International Collaboration in Open Source Software.” *Federal Committee on Statistical Methodology Web Scraping Session*, November 2021. 

@@ -56,7 +56,7 @@ a:link, a:visited {
 }
 
 #bigfooter a:link, a:visited {
-    color: #ffffff;
+    color: #cccccc;
 }
 
 #bigfooter a:hover {
@@ -82,7 +82,7 @@ a:link, a:visited {
 }
 
 .item-cat {
-    background-color: #ffffff;
+    background-color: #757575;
     margin:1px;
 }
 
@@ -112,7 +112,7 @@ a:link, a:visited {
     color: #FFF !important;
 }
 .navbar-default .navbar-nav li a {
-    color: #ffffff;
+    color: #cccccc;
 }
 
 .navbar-default .navbar-nav li a:hover {
@@ -120,11 +120,11 @@ a:link, a:visited {
 }
 
 .navbar-default .navbar-nav.-nightmode li a:hover {
-    color: #ffffff;
+    color: #cccccc;
 }
 
 .navbar-default .navbar-brand {
-    color: #ffffff !important;
+    color: #cccccc !important;
 }
 
 /* custome footer */
@@ -136,10 +136,10 @@ footer {
     /* border-bottom: var(--border-width) solid #f8f8f8; */
 }
 footer a {
-    color: #ffffff;
+    color: #cccccc;
 }
 footer p {
-    color: #ffffff;
+    color: #cccccc;
 }
 
 img {

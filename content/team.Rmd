@@ -10,27 +10,25 @@ h1, h2, h3, h4, h5 {
 }
 ```
 
-### National Center for Science and Engineering Statistics <br> and Bureau of Economic Analysis Team Members 
+### Core Team Members 
 
 <center>
 ![](/./overview_files/carol.png) ![](/./overview_files/ledia.png) ![](/./overview_files/bayoan.jpg){width=25%}
 </center>
 
-##### [Carol Robbins](https://www.nsf.gov/staff/staff_bio.jsp?lan=crobbins&from_org=) (NCSES, Senior Analyst), <br>[Ledia Guci](https://www.nsf.gov/staff/staff_bio.jsp?lan=lguci&from_org=) (NCSES, Science Resource Analyst), and <br>[José Bayoán Santiago Calderón](https://biocomplexity.virginia.edu/j-bayoan-santiago-calderon) (Bureau of Economic Analysis) {style=text-align:center}
+##### [Carol Robbins](https://www.nsf.gov/staff/staff_bio.jsp?lan=crobbins&from_org=) (National Center for Science and Engineering Statistics, Senior Analyst) <br>[Ledia Guci](https://www.nsf.gov/staff/staff_bio.jsp?lan=lguci&from_org=) (National Center for Science and Engineering Statistics, Science Resource Analyst) <br>[José Bayoán Santiago Calderón](https://biocomplexity.virginia.edu/j-bayoan-santiago-calderon) (Bureau of Economic Analysis, Research Economist) {style=text-align:center}
 
 <br>
-
-### University of Virginia Core Team Members 
 
 <center>
 ![](/./overview_files/gizem.jpg){width=25%} ![](/./overview_files/brandon.jpg){width=25%}
 </center>
 
-##### [Gizem Korkmaz](https://biocomplexity.virginia.edu/gizem-korkmaz) (Research Associate Professor) and <br>[Brandon Kramer](https://www.brandonleekramer.com/about/) (Postdoctoral Research Associate)
+##### [Gizem Korkmaz](https://www.linkedin.com/in/gizemkorkmaz/) (Senior Research Scientist, Coleridge Initiative) <br>[Brandon Kramer](https://www.brandonleekramer.com/about/) (UX Researcher, Edge & Node)
 
 <br>
 
-### Other Team Members (Past and Present)
+### Past Team Members
 
 ##### Sallie Keller, Aaron Schroeder, Stephanie Shipp, <br>Behnaz Moradi-Jamei, Claire Kelling, and Daniel Chen
 

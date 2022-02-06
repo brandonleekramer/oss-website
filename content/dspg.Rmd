@@ -10,6 +10,8 @@ h1, h2, h3, h4, h5 {
 }
 ```
 
+### Data Science for the Public Good (DSPG)
+
 <br>
 <center>
 ![](/./dspg_files/uva-dspg-logo.jpg)
@@ -23,7 +25,8 @@ Each year the University of Virginia's Biocomplexity Institute holds a summer pr
 #### DSPG Summer Class of 2021 
 
 <center>
-![](/./overview_files/Crystal.jpeg){width=20%} ![](/./overview_files/Cierra.png){width=25%} ![](/./overview_files/Stephanie.png){width=25%}
+![](/./dspg_files/crystal.jpeg){width=20%}
+![](/./overview_files/Cierra.png){width=25%} ![](/./overview_files/Stephanie.png){width=25%}
 </center>
 
 ##### [Crystal Zang](https://github.com/czang97) (Team Lead, University of Pittsburgh, Biostatistics), <br>Cierra Oliveira (Clemson University, Computing and Applied Sciences), and <br>Stephanie Zhang (University of Virginia, Mathematics/Probability/Statistics, Sociology)

@@ -5,18 +5,14 @@
     <link>/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DSPG</title>
       <link>/dspg/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/dspg/</guid>
-      <description>/* this chunnk of code centers all of the headings */ h1, h2, h3, h4, h5 { text-align: center; }    
+      <description>/* this chunnk of code centers all of the headings */ h1, h2, h3, h4, h5 { text-align: center; }  Data Science for the Public Good (DSPG)   
 Each year the University of Virginia’s Biocomplexity Institute holds a summer program for training graduate and undergraduate students how to do applied data science. The Data Science for the Public Good (DSPG) Young Scholars program is a summer immersive program for undergraduate and graduate students from across the country.</description>
     </item>
     
@@ -26,8 +22,8 @@ Each year the University of Virginia’s Biocomplexity Institute holds a summer 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/overview/</guid>
-      <description>/* this chunnk of code centers all of the headings */ h1, h2, h3, h4, h5 { text-align: center; }    
-Open-Source Software Research Team Open Source Software (OSS), defined by Open Source Initiative, is computer software with its source code shared with a license in which the copyright holder provides the rights to study, change, and distribute the software to anyone and for any purpose. Prominent examples include the Linux operation system, the Apache web server, and machine learning frameworks like PyTorch and Tensorflow.</description>
+      <description>/* this chunnk of code centers all of the headings */ h1, h2, h3, h4, h5 { text-align: center; }  Open-Source Software Research Team   
+Open Source Software (OSS), defined by Open Source Initiative, is computer software with its source code shared with a license in which the copyright holder provides the rights to study, change, and distribute the software to anyone and for any purpose.</description>
     </item>
     
     <item>
@@ -36,7 +32,7 @@ Open-Source Software Research Team Open Source Software (OSS), defined by Open S
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/packages/</guid>
-      <description> /* this chunnk of code centers all of the headings */ h1, h2, h3, h4, h5 { text-align: center; }    GHOST.jl GHOST.jl, short for GitHub Open-Source Tracker, is a Julia package for targeted scraping of GitHub user and activity data     tidyorgs tidyorgs is an R package that detects and standardizes organizations in unstructured text data     diverstidy diverstidy is an R package designed for detection and standardization of geographic, population, and diversity-related terminology in unstructured text data   </description>
+      <description>  /* this chunnk of code centers all of the headings */ h1, h2, h3, h4, h5 { text-align: center; }  OSS Software Packages    GHOST.jl GHOST.jl, short for GitHub Open-Source Tracker, is a Julia package for targeted scraping of GitHub user and activity data     tidyorgs tidyorgs is an R package that detects and standardizes organizations in unstructured text data     diverstidy diverstidy is an R package designed for detection and standardization of geographic, population, and diversity-related terminology in unstructured text data   </description>
     </item>
     
     <item>
@@ -57,7 +53,7 @@ Open Source Software (OSS), defined by Open Source Initiative, is computer softw
       <guid>/presentations/</guid>
       <description>/* this chunnk of code centers all of the headings */ h1, h2, h3, h4, h5 { text-align: center; }  Conference Presentations and Invited Talks  
  A recent presentation of our research on international collabortions on GitHub at Networks 2021 
-  2021 Robbins, C., Korkmaz, G., Guci, L., Santiago Calderón, J.B., &amp;amp; Kramer, B.L. “A First Look at Open Source Software Investment in the United States and in the Other Countries, 2009-2019.</description>
+  2021 Santiago Calderón, J.B., Robbins, C., Korkmaz, G., Guci, L., &amp;amp; Kramer, B.L. “Measuring the Cost of Open Source Software Innovation on GitHub.</description>
     </item>
     
     <item>
@@ -66,8 +62,8 @@ Open Source Software (OSS), defined by Open Source Initiative, is computer softw
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/team/</guid>
-      <description>/* this chunnk of code centers all of the headings */ h1, h2, h3, h4, h5 { text-align: center; }  National Center for Science and Engineering Statistics and Bureau of Economic Analysis Team Members   Carol Robbins (NCSES, Senior Analyst), Ledia Guci (NCSES, Science Resource Analyst), and José Bayoán Santiago Calderón (Bureau of Economic Analysis) 
-  University of Virginia Core Team Members   Gizem Korkmaz (Research Associate Professor) and Brandon Kramer (Postdoctoral Research Associate)</description>
+      <description>/* this chunnk of code centers all of the headings */ h1, h2, h3, h4, h5 { text-align: center; }  Core Team Members   Carol Robbins (National Center for Science and Engineering Statistics, Senior Analyst) Ledia Guci (National Center for Science and Engineering Statistics, Science Resource Analyst) José Bayoán Santiago Calderón (Bureau of Economic Analysis, Research Economist) 
+   Gizem Korkmaz (Senior Research Scientist, Coleridge Initiative) Brandon Kramer (UX Researcher, Edge &amp;amp; Node)</description>
     </item>
     
   </channel>
