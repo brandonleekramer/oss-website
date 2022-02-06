@@ -11,7 +11,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
 
 [params]
     author = "Brandon Kramer"
-    description = "Open-Source Software Research Team"
+    description = ""
     logo = "favicon/oss_homepage_copy.png"
     #githubUsername = "team-oss"
     accent = "#154a8f" # dark colors do best
